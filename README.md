@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Layan4869
 - 👀 I’m interested in programming and I love reading so much
 - 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me layan.mahmoud.nes4@gmail.com
 
 <!---
